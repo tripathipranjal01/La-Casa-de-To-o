@@ -1,0 +1,755 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1388053,19.434267 ]
+    },
+    "properties": {
+    "addr:housenumber":"Francisco I. Madero 20 int. 212-216, Centro, Cuauhtémoc, CP 06000, CDMX",
+    "addr:street":"Avenida Francisco I. Madero",
+    "addr:postcode":43960,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1426492,19.4338552 ]
+    },
+    "properties": {
+    "addr:housenumber":"Dolores 7, Downtown, Cuauhtémoc, CP 06000, CDMX",
+    "addr:street":"Dolores",
+    "addr:postcode":6050,
+    "addr:city":"Ejido del Centro",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1301609,19.4174851 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Lorenzo Butorini 258 ext. CRR03, Transit, Cuauhtémoc, CP 06820, CDMX",
+    "addr:street":"Lorenzo Boturini",
+    "addr:postcode":6840,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1423602,19.4562285 ]
+    },
+    "properties": {
+    "addr:housenumber":"Eje 2 Nte 5, San Simón, Cuauhtémoc, CP 06920, CDMX",
+    "addr:street":"Eje Vial 2 Norte",
+    "addr:postcode":6920,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1602579,19.4280809 ]
+    },
+    "properties": {
+    "addr:housenumber":"Hamburg 40, Juarez, Cuauhtémoc, CP 06600, CDMX",
+    "addr:street":"Hamburgo",
+    "addr:postcode":6600,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1623617,19.4317759 ]
+    },
+    "properties": {
+    "addr:housenumber":"Rio Neva 18 int. 1, Renaissance, Cuauhtémoc, CP 06500, CDMX",
+    "addr:street":"Río Neva",
+    "addr:postcode":6500,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.164443,19.4254794 ]
+    },
+    "properties": {
+    "addr:housenumber":"London 129, Juarez, Cuauhtémoc, CP 06600, CDMX",
+    "addr:street":"Londres",
+    "addr:postcode":6600,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1651837,19.424693 ]
+    },
+    "properties": {
+    "addr:housenumber":"London 144, Juarez, Cuauhtémoc, CP 06600, CDMX",
+    "addr:street":"Londres",
+    "addr:postcode":6600,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1092155,19.4059924 ]
+    },
+    "properties": {
+    "addr:housenumber":"Viad. Rio de la Piedad 525, Granjas Mexico, Iztacalco, CP 08400, CDMX",
+    "addr:street":"Viaducto Río de la Piedad",
+    "addr:postcode":8400,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1557773,19.4033246 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Cuahtémoc 439, Piedad Navarte, Benito Juárez, CP 03000, CDMX",
+    "addr:street":"Avenida Cuauhtémoc",
+    "addr:postcode":3000,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.144664,19.4682946 ]
+    },
+    "properties": {
+    "addr:housenumber":"Vallejo Street 296 ext. SSB03, San Francisco Xocotitla, Azcapotzalco, CP 02940, CDMX",
+    "addr:street":"Calzada Vallejo",
+    "addr:postcode":2940,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1556476,19.403193 ]
+    },
+    "properties": {
+    "addr:housenumber":"World Worker House 56, Piedad Navarte, Benito Juarez, CP 03000, CDMX",
+    "addr:street":"Londres",
+    "addr:postcode":2940,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1717148,19.4509258 ]
+    },
+    "properties": {
+    "addr:housenumber":"Salvador Diaz Miron 398, A Home For Us, Miguel Hidalgo, CP 11330, CDMX",
+    "addr:street":"Calle Salvador Díaz Mirón",
+    "addr:postcode":11330,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1802147,19.4413563 ]
+    },
+    "properties": {
+    "addr:housenumber":"Holy Spirit Bay 21 int. 2, Anahuac, Miguel Hidalgo, CP 11320, CDMX",
+    "addr:street":"Calle Salvador Díaz Mirón",
+    "addr:postcode":11320,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "addr:housenumber":"Palestine 41, Egypt, Azcapotzalco, CP 02080, CDMX",
+    "addr:street":"Calle Salvador Díaz Mirón",
+    "addr:postcode":11320,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Egypt",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1817375,19.3946694 ]
+    },
+    "properties": {
+    "addr:housenumber":"Patriotismo Avenue 229, San Pedro de los Pinos, Benito Juarez, CP 03800, CDMX",
+    "addr:street":"Patriotismo",
+    "addr:postcode":3800,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1324282,19.5037694 ]
+    },
+    "properties": {
+    "addr:housenumber":"Montevideo Avenue 363 ext. 201, Lindavista, Gustavo A. Madero, CP 07300, CDMX",
+    "addr:street":"Patriotismo",
+    "addr:postcode":7340,
+    "addr:city":"Mexico City",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1019674,19.377342 ]
+    },
+    "properties": {
+    "addr:housenumber":"Churubsuco River Canal 1635, Federal Central Supply Area, Iztapalapa, CP 09040, CDMX",
+    "addr:street":"Avenida Río Churubusco",
+    "addr:postcode":9040,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2100177,19.4772062 ]
+    },
+    "properties": {
+    "addr:housenumber":"Floresta Street 77, Claveria, Azcapotzalco, CP 02080, CDMX",
+    "addr:street":"Floresta",
+    "addr:postcode":2750,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1882975,19.4829222 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Aquiles Serdan 520, Azcapotzalco, Azcapotzalco, CP 02000, CDMX",
+    "addr:street":"Avenida Aquiles Serdán",
+    "addr:postcode":2000,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1253815,19.5128289 ]
+    },
+    "properties": {
+    "addr:housenumber":"Aqueduct Avenue 650, SU-08, Zacatenco Residential Area, Gustavo A. Madero, CP 07369, CDMX",
+    "addr:street":"Avenida Aquiles Serdán",
+    "addr:postcode":7340,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2109178,19.4370225 ]
+    },
+    "properties": {
+    "addr:housenumber":"Jose Luis Lagrange SN, Polanco, Miguel Hidalgo, CP 11510, CDMX",
+    "addr:street":"José Luis Lagrange",
+    "addr:postcode":11510,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1857431,19.3790473 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Patriotismo 730, San Juan, Benito Juarez, CP 03730, CDMX",
+    "addr:street":"Avenida Patriotismo",
+    "addr:postcode":3730,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2109178,19.4370225 ]
+    },
+    "properties": {
+    "addr:housenumber":"José Luis Lagrange SN int. Floor 0, Polanco I Secc, Miguel Hidalgo, CP 11510, CDMX",
+    "addr:street":"José Luis Lagrange",
+    "addr:postcode":11510,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1824701,19.364163 ]
+    },
+    "properties": {
+    "addr:housenumber":"South Insurgentes Avenue 35, San Jose Insurgentes, Benito Juarez, CP 03900, CDMX",
+    "addr:street":"Avenida de los Insurgentes Sur",
+    "addr:postcode":3900,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1371109,19.5107957 ]
+    },
+    "properties": {
+    "addr:housenumber":"Guillermo Massieu Helguera 86, La Purísima Ticoman, Gustavo A. Madero, CP 07320, CDMX",
+    "addr:street":"Avenida Guillermo Massieu Helguera",
+    "addr:postcode":7320,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0488165,19.4641835 ]
+    },
+    "properties": {
+    "addr:housenumber":"Central Avenue 295, Bosques de Aragon, Nezahualcóyotl, CP 57170, State of Mexico",
+    "addr:street":"José Luis Lagrange",
+    "addr:postcode":57170,
+    "addr:city":"Ciudad Nezahualcóyotl",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2189022,19.4524534 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Rodolfo Gaona 3, Journalist, Miguel Hidalgo, CP 11220, CDMX",
+    "addr:street":"Avenida Rodolfo Gaona",
+    "addr:postcode":7340,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1561883,19.3437444 ]
+    },
+    "properties": {
+    "addr:housenumber":"1144 Miguel Angel de Quevedo Avenue, San Andres Park, Coyoacan, CP 04040, CDMX",
+    "addr:street":"José Luis Lagrange",
+    "addr:postcode":7340,
+    "addr:city":"Mexico City",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2003939,19.5009565 ]
+    },
+    "properties": {
+    "addr:housenumber":"1025 El Rosario Avenue, El Rosario, Azcapotzalco, CP 02430, CDMX",
+    "addr:street":"Avenida El Rosario",
+    "addr:postcode":7340,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1727313,19.372915 ]
+    },
+    "properties": {
+    "addr:housenumber":"Felix Cuevas 374, Tlacoquemecatl del Valle, Benito Juarez, CP 03200, CDMX",
+    "addr:street":"Félix Cuevas",
+    "addr:postcode":3200,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2337001,19.4587054 ]
+    },
+    "properties": {
+    "addr:housenumber":"Calz. San Esteban 46 ext. 34, 35, 36, San Esteban, Naucalpan de Juárez, CP 53550, State of Mexico",
+    "addr:street":"Calzada San Esteban",
+    "addr:postcode":53550,
+    "addr:city":"Naucalpan de Juárez",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0228324,19.4294596 ]
+    },
+    "properties": {
+    "addr:housenumber":"Xochiaca Bordo Local 3 D1y3D14 3 int. D13 and D14, Bicentinario Garden City, Nezahualcóyotl, CP 57205, State of Mexico",
+    "addr:street":"Calzada San Esteban",
+    "addr:postcode":57205,
+    "addr:city":"Ciudad Nezahualcóyotl",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9756044,19.4133017 ]
+    },
+    "properties": {
+    "addr:housenumber":"Bicentennial Garden City 3 int. D13-D14, Bordo de Xochiaca Avenue, Nezahualcóyotl, CP 57205, State of Mexico",
+    "addr:street":"Calzada San Esteban",
+    "addr:postcode":56350,
+    "addr:city":"Chimalhuacán",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1684737,19.532171 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Tlanepantla-Tenayuca 25 int. PA-R02, Municipality, Tlalnepantla, CP 54150, State of Mexico",
+    "addr:street":"Quetzalcoatl",
+    "addr:postcode":54150,
+    "addr:city":"Tlalnepantla",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1898187,19.34043 ]
+    },
+    "properties": {
+    "addr:housenumber":"Insurgentes Sur 2374, Chimalistac, Alvaro Obregon, CP 01070, CDMX",
+    "addr:street":"Avenida Insurgentes Sur",
+    "addr:postcode":1070,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1331631,19.3288318 ]
+    },
+    "properties": {
+    "addr:housenumber":"Axis 1 East 2381, Avante, Coyoacan, CP 04460, CDMX",
+    "addr:street":"Quetzalcoatl",
+    "addr:postcode":4460,
+    "addr:city":"Mexico City",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2333949,19.4944035 ]
+    },
+    "properties": {
+    "addr:housenumber":"Salitrillo Estate 22, Echegaray Forests, Naucalpan de Juarez, CP 53310, State of Mexico",
+    "addr:street":"Paseo de Echegaray",
+    "addr:postcode":53160,
+    "addr:city":"Naucalpan de Juárez",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0942861,19.3214973 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Tlauac 4409 int. JA- 01, Lomas Estrella 2nd Secc, Iztapalapa, CP 09890, CDMX",
+    "addr:street":"Avenida Tlahuac",
+    "addr:postcode":9890,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2196762,19.348767 ]
+    },
+    "properties": {
+    "addr:housenumber":"1019 Eagles St., Las Aguilas Extension, Alvaro Obregon, CP 01759, CDMX",
+    "addr:street":"Avenida Tlahuac",
+    "addr:postcode":1759,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.247894,19.4957891 ]
+    },
+    "properties": {
+    "addr:housenumber":"Lomas Verdes Avenue 25, Boulevards, Naucalpan de Juarez, CP 53140, State of Mexico",
+    "addr:street":"Avenida Lomas Verdes",
+    "addr:postcode":53140,
+    "addr:city":"Naucalpan de Juárez",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2230343,19.5250995 ]
+    },
+    "properties": {
+    "addr:housenumber":"Sor Juana Ines de La Cruz Avenue 80, San Lorenzo, Tlalnepantla, CP 54033, State of Mexico",
+    "addr:street":"Calle Sor Juana Inés de La Cruz",
+    "addr:postcode":54080,
+    "addr:city":"Tlalnepantla",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1249717,19.3061368 ]
+    },
+    "properties": {
+    "addr:housenumber":"Ranch Tollocan 3011, Sunflowers III, Coyoacan, CP 04920, CDMX",
+    "addr:street":"Rancho Tollocan",
+    "addr:postcode":4920,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2267312,19.525216 ]
+    },
+    "properties": {
+    "addr:housenumber":"Blvd. Manuel Avila Camacho 1007 ext. 36, San Lucas Tepetlacalco, Tlalnepantla, CP 05400, State of Mexico",
+    "addr:street":"Periférico Boulevard Manuel Ávila Camacho",
+    "addr:postcode":54055,
+    "addr:city":"Tlalnepantla",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1649416,19.3074046 ]
+    },
+    "properties": {
+    "addr:housenumber":"Blvd. Gransur 151, El Caracol, Coyoacan, CP 04700, CDMX",
+    "addr:street":"Boulevard Gransur",
+    "addr:postcode":4700,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2287306,19.517834 ]
+    },
+    "properties": {
+    "addr:housenumber":"Economists Circuit 99, Satellite City, Naucalpan de Juarez, CP 53100, State of Mexico",
+    "addr:street":"Avenida Satelite",
+    "addr:postcode":54080,
+    "addr:city":"Tlalnepantla",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2717009,19.4065878 ]
+    },
+    "properties": {
+    "addr:housenumber":"Blvd. Magnocentro 29 ext. 110, Centro, Huixquilucan, CP 52760, State of Mexico",
+    "addr:street":"Boulevard Magnocentro",
+    "addr:postcode":52760,
+    "addr:city":"Huixquilucan de Degollado",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1531979,19.29662 ]
+    },
+    "properties": {
+    "addr:housenumber":"Tlalpan Causeway 4385, Huipulco, Tlalpan, CP 14370, CDMX",
+    "addr:street":"Calzada de Tlalpan",
+    "addr:postcode":14370,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0264879,19.5313176 ]
+    },
+    "properties": {
+    "addr:housenumber":"Av. Carlos Hank Gonzalez 120-116a, Rinconada de Aragon, Ecatepec, CP 55149, State of Mexico",
+    "addr:street":"Avenida Carlos Hank González",
+    "addr:postcode":55149,
+    "addr:city":"Ecatepec de Morelos",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1531979,19.29662 ]
+    },
+    "properties": {
+    "addr:housenumber":"Tlalpan Causeway 4385, Huipulco, Tlalpan, CP 14370, CDMX",
+    "addr:street":"Calzada de Tlalpan",
+    "addr:postcode":14370,
+    "addr:city":"Ciudad de México",
+    "addr:country":"Mexico",
+    "@spider":"La Casa de Toño_mex_dpa"
+    }
+  }
+]
+}
